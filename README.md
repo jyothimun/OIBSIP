@@ -13,6 +13,9 @@ Machine Learning and Data Science projects completed during Oasis Infobyte Inter
 ### 🚗 Task 3 - Car Price Prediction
 - Predict used car selling prices using Machine Learning regression models.
 
+###📧 Task 4 - Email Spam Detection
+- Classify SMS/Emails into Spam or Ham using NLP and Machine Learning.
+
 ## Technologies Used
 - Python
 - Pandas
@@ -23,4 +26,4 @@ Machine Learning and Data Science projects completed during Oasis Infobyte Inter
 - Jupyter Notebook
 
 ## Author
-**Jyothimun**
+**Jyothimungara
